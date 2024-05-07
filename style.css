@@ -34,3 +34,11 @@ width: 25%;
 .escola{
     background-image: linear-gradient(#6a81ca,#5a7ef5da);
 }
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.icone{
+    width: 30px;
+}
